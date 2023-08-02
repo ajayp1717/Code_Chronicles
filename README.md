@@ -1,10 +1,10 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio website built with React. 
 
 ### [Preview]
 
-![Alt Text](demo.gif)
+<img align="center" alt="preview" width="400"  src="./demo.gif" />
 
 ### Features
 
