@@ -4,7 +4,7 @@ A simple portfolio website built with React.
 
 ### [Preview]
 
-<img align="center" alt="preview" width="400"  src="./demo.gif" />
+<img align="center" alt="preview" width="400" src="demo.gif?raw=true" />
 
 ### Features
 
