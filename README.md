@@ -18,7 +18,7 @@ https://github.com/ajayp1717/My_Portfolio/assets/87872790/5754aa1b-352f-498e-923
 
 Get the code
 
-<pre>git clone https://github.com/ajayp1717/My_Portfolio.git</pre>
+<pre>git clone https://github.com/ajayp1717/Code_Chronicles.git</pre>
  
 Install required dependencies
 
