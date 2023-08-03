@@ -1,7 +1,7 @@
 const logotext = "AJAY";
 const meta = {
     title: "Ajay Patil",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "",
 };
 
 const introdata = {
