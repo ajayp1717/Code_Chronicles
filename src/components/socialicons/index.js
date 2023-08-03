@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import { FaFontAwesomeLogoFull } from "react-icons/fa";
 import {
   FaGithub,
   FaTwitter,
