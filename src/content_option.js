@@ -31,11 +31,7 @@ const worktimeline = [{
         where: "Have an hands on experience of HTML, CSS, JavaScript, Node, Express, MongoDB. Currently working on React skills.",
         date: "",
     },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "",
-    // },
+   
 ];
 
 const skills=[{
@@ -134,9 +130,9 @@ const contactConfig = {
     description: "Open to exciting opportunities! Whether it's joining forces on a project, collaborating for innovative solutions, or simply connecting in the digital realm, let's explore the possibilities together.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_4p7b0h5",
-    YOUR_TEMPLATE_ID: "template_ahy7y7n",
-    YOUR_USER_ID: "NZs_l-H1lk6_Md7Qh",
+    YOUR_SERVICE_ID: "#",
+    YOUR_TEMPLATE_ID: "#",
+    YOUR_USER_ID: "#",
 };
 
 const socialprofils = {
