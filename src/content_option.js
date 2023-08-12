@@ -1,6 +1,7 @@
+
 const logotext = "AJAY";
 const meta = {
-    title: "Ajay Patil",
+    title: "Code Chronicles",
     description: "",
 };
 
@@ -124,15 +125,17 @@ const dataportfolio = [{
     
 ];
 
+
+
 const contactConfig = {
     YOUR_EMAIL: "ajaypatil.connect@gmail.com",
     YOUR_FONE: "+91-7098871717",
     description: "Open to exciting opportunities! Whether it's joining forces on a project, collaborating for innovative solutions, or simply connecting in the digital realm, let's explore the possibilities together.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "#",
-    YOUR_TEMPLATE_ID: "#",
-    YOUR_USER_ID: "#",
+    YOUR_SERVICE_ID: process.env.SERVICE_ID,
+    YOUR_TEMPLATE_ID: process.env.TEMPLATE_ID,
+    YOUR_USER_ID: process.env.USER_ID,
 };
 
 const socialprofils = {
