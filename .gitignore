@@ -18,7 +18,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-/src/content_options.js
+/src/content_option.js
 
 *.eslintcache
 npm-debug.log*
