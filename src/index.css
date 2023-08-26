@@ -1,6 +1,6 @@
 :root {
     --bg-color: rgb(5, 0, 0);
-    --primary-color: #0d0d0d;
+    --primary-color: rgb(5, 0, 0);
     --secondary-color: #fff;
     --text-color: #fff;
     --text-color-2: #fff;

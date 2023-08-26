@@ -36,6 +36,10 @@ export const ContactUs = () => {
         contactConfig.YOUR_TEMPLATE_ID,
         templateParams,
         contactConfig.YOUR_USER_ID
+        // process.env.SERVICE_ID,
+        // process.env.TEMPLATE_ID,
+        // templateParams,
+        // process.env.USER_ID,
       )
       .then(
         (result) => {
