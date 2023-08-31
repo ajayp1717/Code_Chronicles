@@ -1,11 +1,10 @@
 # Portfolio Website
 
-A simple portfolio website built with React.
+A simple, responsive, user intuitive portfolio website built with React.
 
 ## Preview
 
-![Preview](https://github.com/ajayp1717/Code_Chronicles/assets/87872790/84393d2c-556a-4904-9fe4-703adefae102
-)
+https://github.com/ajayp1717/Code_Chronicles/assets/87872790/84393d2c-556a-4904-9fe4-703adefae102
 
 ## Features
 
