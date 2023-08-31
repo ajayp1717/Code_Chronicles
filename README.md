@@ -4,7 +4,8 @@ A simple portfolio website built with React.
 
 ## Preview
 
-![Preview](https://github.com/ajayp1717/My_Portfolio/assets/87872790/5754aa1b-352f-498e-923b-96eb6a223226)
+![Preview](https://github.com/ajayp1717/Code_Chronicles/assets/87872790/84393d2c-556a-4904-9fe4-703adefae102
+)
 
 ## Features
 
