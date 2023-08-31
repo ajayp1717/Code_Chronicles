@@ -21,8 +21,8 @@ Check out the deployed version of the project: [Live Demo](https://code-chronicl
 
 Get the code
 
-```bash
-git clone https://github.com/ajayp1717/Code_Chronicles.git
+
+<pre>git clone https://github.com/ajayp1717/Code_Chronicles.git</pre>
 
 Install required dependencies
 
