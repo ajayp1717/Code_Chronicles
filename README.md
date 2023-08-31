@@ -24,3 +24,12 @@ Get the code
 
 ```bash
 git clone https://github.com/ajayp1717/Code_Chronicles.git
+
+Install required dependencies
+
+<pre>npm install</pre>
+
+
+Start the server
+
+<pre>npm start</pre>
